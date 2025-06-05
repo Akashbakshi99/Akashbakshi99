@@ -63,11 +63,7 @@ Here are some projects I’m proud of:
 
 ---
 
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bakshi-6ba5b2327/)
-
----
+## 📈 AI Skills Portfolio
 
 <a href="https://akashbakshi99.github.io/Akashbakshi99/index.html"
    target="_blank"
@@ -77,6 +73,10 @@ Here are some projects I’m proud of:
 </a>
 
 
+---
 
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bakshi-6ba5b2327/)
 
 ---
