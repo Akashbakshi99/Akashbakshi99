@@ -81,9 +81,10 @@ Here are some projects I’m proud of:
 </style>
 
 <h2>📈 AI Skill Dashboard Preview</h2>
-<a href="https://akashbakshi99.github.io/Akashbakshi99/index.html" target="_blank" rel="noopener noreferrer" class="no-underline">
+<a href="https://akashbakshi99.github.io/Akashbakshi99/index.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
   👉 Open Dashboard
 </a>
+
 
 
 
