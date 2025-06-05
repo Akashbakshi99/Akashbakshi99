@@ -72,9 +72,10 @@ Here are some projects I’m proud of:
 <a href="https://akashbakshi99.github.io/Akashbakshi99/index.html"
    target="_blank"
    rel="noopener noreferrer"
-   style="all: unset; cursor: pointer; text-decoration: none; color: inherit;">
+   style="text-decoration: none; color: inherit; cursor: pointer;">
   👉 Open Dashboard
 </a>
+
 
 
 
