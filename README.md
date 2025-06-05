@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Akash Bakshi
 
 🎯 AI Engineer | Passionate about building impactful AI solutions through Machine Learning, Deep Learning, Generative AI, and Natural Language Processing (NLP).
@@ -21,8 +20,10 @@
 
 Here are some projects I’m proud of:
 
-- [AI Stock Price Prediction](https://github.com/Akashbakshi99/AI-Stock-Price-prediction) - Predicting stock prices using ML techniques.  
-- *(Add more projects as you work on them!)*
+- [AI Stock Price Prediction](https://github.com/Akashbakshi99/AI-Stock-Price-prediction) — Predicting stock prices using machine learning techniques to analyze market trends and make data-driven forecasts.  
+- [Todolist](https://github.com/Akashbakshi99/Todolist) — A task management application to help users organize and track their daily activities efficiently.  
+- [Restaurant Management System Using AI](https://github.com/Akashbakshi99/Restaurant-Management-System-Using-AI) — An AI-powered system designed to streamline restaurant operations including order processing and inventory management.  
+- [Web Application](https://github.com/Akashbakshi99/Web_Application) — A full-stack web application project demonstrating modern web development practices and deployment.
 
 ---
 
@@ -70,5 +71,7 @@ Here are some projects I’m proud of:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bakshi-6ba5b2327/)
 
 ---
+
+> “Striving to bridge the gap between AI theory and practical applications.”
 
 
