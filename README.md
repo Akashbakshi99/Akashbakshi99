@@ -74,7 +74,4 @@ Here are some projects I’m proud of:
 📊 **Interactive Dashboard:**  
 [My Skill Dashboard](https://Akashbakshi99.github.io/Akashbakshi99/skill_dashboard_dark.html)
 
-
-🖼️ **Preview Screenshot:**  
-![AI Skill Dashboard](https://github.com/Akashbakshi99/Akashbakshi99/raw/main/ai_dashboard_preview.png)
 ---
