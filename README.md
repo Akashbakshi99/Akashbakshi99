@@ -1,12 +1,3 @@
-# 👋 Hi, I'm Akash Bakshi
-
-🎯 AI Engineer | Passionate about building impactful AI solutions through Machine Learning, Deep Learning, Generative AI, and Natural Language Processing (NLP).
-
-📍 Noida, India  
-📞 8899457781  
-🔗 [LinkedIn](https://www.linkedin.com/in/akash-bakshi-6ba5b2327/)
-
----
 
 ## 🧠 About Me
 
@@ -30,32 +21,32 @@ Here are some projects I’m proud of:
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) FastAPI  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
 
 ### Machine Learning & AI  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) Scikit-learn  
-![Transformers](https://img.shields.io/badge/Transformers-6F42C1?style=flat&logo=transformers&logoColor=white) Transformers  
-![LLM Finetuning](https://img.shields.io/badge/LLM--Finetuning-0099ff?style=flat&logo=python&logoColor=white) LLM Finetuning  
-![LangChain](https://img.shields.io/badge/LangChain-0088CC?style=flat&logo=python&logoColor=white) LangChain  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Transformers](https://img.shields.io/badge/Transformers-6F42C1?style=flat&logo=transformers&logoColor=white)  
+![LLM Finetuning](https://img.shields.io/badge/LLM--Finetuning-0099ff?style=flat&logo=python&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-0088CC?style=flat&logo=python&logoColor=white)  
 
 ### Generative AI & Deep Learning  
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) Deep Learning  
-![Generative AI](https://img.shields.io/badge/Generative_AI-0099FF?style=flat) Generative AI  
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative_AI-0099FF?style=flat)  
 
 ### Data Manipulation & Analysis  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) NumPy  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) Pandas  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) SQL  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 
 ### Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) AWS  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
 ### Other Domains & Skills  
-![NLP](https://img.shields.io/badge/NLP-007ACC?style=flat) NLP  
-![Product Development](https://img.shields.io/badge/Product_Development-ff69b4?style=flat) Product Development  
+![NLP](https://img.shields.io/badge/NLP-007ACC?style=flat)  
+![Product Development](https://img.shields.io/badge/Product_Development-ff69b4?style=flat)  
 
 ---
 
@@ -73,6 +64,5 @@ Here are some projects I’m proud of:
 ---
 
 > “Striving to bridge the gap between AI theory and practical applications.”
-
 
 
