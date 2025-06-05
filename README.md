@@ -72,7 +72,7 @@ Here are some projects I’m proud of:
    target="_blank"
    rel="noopener noreferrer"
    style="text-decoration: none; color: inherit; cursor: pointer;">
-  Open Dashboard
+ --> Open Dashboard
 </a>
 
 
