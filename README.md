@@ -87,4 +87,4 @@ Here are some projects I’m proud of:
 ---
 | ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Akash Bakshi's Stri](https://streak-stats.demolab.com?user=Akashbakshi99&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashbakshi99&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashbakshi99&layout=compact&&show_icons=true&theme=radical)](https://github.com/Akashbakshi99/github-readme-stats) |                                                              |
