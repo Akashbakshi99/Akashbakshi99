@@ -57,6 +57,22 @@ Here are some projects I’m proud of:
 
 ---
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Akashbakshi99&theme=dark&border_radius=7&mode=weekly" alt="Akash Bakshi's Streak" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Akashbakshi99/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashbakshi99&layout=compact&&show_icons=true&theme=radical" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akashbakshi99&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Akashbakshi99/github-readme-activity-graph)
 
