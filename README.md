@@ -53,7 +53,8 @@ Here are some projects I’m proud of:
 ## 📈 GitHub Stats
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashbakshi99&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashbakshi99&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashbakshi99&layout=compact&theme=radical&exclude_forks=true)
+
 
 ---
 
