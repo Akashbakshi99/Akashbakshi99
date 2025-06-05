@@ -58,7 +58,7 @@ Here are some projects I’m proud of:
 
 ---
 
-## 📈 AI Skills Portfolio
+## 📈 AI Professional Highlights
 
 <a href="https://akashbakshi99.github.io/Akashbakshi99/index.html"
    target="_blank"
