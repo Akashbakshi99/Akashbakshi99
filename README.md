@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # 👋 Hi, I'm Akash Bakshi
 
 🎯 AI Engineer | Passionate about building impactful AI solutions through Machine Learning, Deep Learning, Generative AI, and Natural Language Processing (NLP).
@@ -73,6 +71,4 @@ Here are some projects I’m proud of:
 
 ---
 
-> “Striving to bridge the gap between AI theory and practical applications.”
 
--->
