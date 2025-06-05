@@ -49,6 +49,16 @@ Here are some projects I’m proud of:
 
 ---
 
+
+---
+| ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Akash Bakshi's Stri](https://streak-stats.demolab.com?user=Akashbakshi99&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashbakshi99&layout=compact&&show_icons=true&theme=radical)](https://github.com/Akashbakshi99/github-readme-stats) |                                                              |
+
+---
+
+
+
 ## 📊 Technical & AI Product Development Dashboard
 
 | **Area**                  | **Skills & Tools**                                                                                     | **Description**                                                                                     |
@@ -61,12 +71,7 @@ Here are some projects I’m proud of:
 | **Cloud & DevOps**        | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Deploying scalable AI services on cloud infrastructure using containers and orchestration.         |
 | **Product Development**   | ![Product Development](https://img.shields.io/badge/Product_Development-ff69b4?style=flat) | Leading AI-driven projects from concept to deployment, focusing on user needs and business impact. |
 
----
-| ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Akash Bakshi's Stri](https://streak-stats.demolab.com?user=Akashbakshi99&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashbakshi99&layout=compact&&show_icons=true&theme=radical)](https://github.com/Akashbakshi99/github-readme-stats) |                                                              |
 
----
 
 [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akashbakshi99&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Akashbakshi99/github-readme-activity-graph)
 
