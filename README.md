@@ -35,7 +35,7 @@ Here are some projects I’m proud of:
   </tr>
 </table>
 
-
+---
 
 [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akashbakshi99&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Akashbakshi99/github-readme-activity-graph)
 
@@ -58,13 +58,6 @@ Here are some projects I’m proud of:
 ---
 
 ## 📈 AI Professional Highlights
-
-<a href="https://akashbakshi99.github.io/Akashbakshi99/index.html"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="text-decoration: none; color: inherit; cursor: pointer;">
- --> Open Dashboard
-</a>
 
 ➡️ **[🟠 Open Dashboard](https://akashbakshi99.github.io/Akashbakshi99/index.html)**
 
