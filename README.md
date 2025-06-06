@@ -54,6 +54,23 @@ Here are some projects I’m proud of:
 </table>
 
 
+---
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Akashbakshi99&theme=dark&border_radius=7&mode=weekly" alt="Akash Bakshi's Streak" style="max-width: 100%;" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Akashbakshi99/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashbakshi99&layout=compact&show_icons=true&theme=radical" alt="Top Languages" style="max-width: 100%;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
