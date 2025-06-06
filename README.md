@@ -66,6 +66,13 @@ Here are some projects I’m proud of:
  --> Open Dashboard
 </a>
 
+<a href="https://akashbakshi99.github.io/Akashbakshi99/index.html"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="text-decoration: none; color: orange; cursor: pointer;">
+  --> Open Dashboard
+</a>
+
 
 ---
 
