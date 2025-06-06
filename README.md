@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 
-Here are some projects I’m proud of:
+Here are a few projects I’m excited to share:
 
 - [AI Stock Price Prediction](https://github.com/Akashbakshi99/AI-Stock-Price-prediction) — Predicting stock prices using machine learning techniques to analyze market trends and make data-driven forecasts.  
 - [Todolist](https://github.com/Akashbakshi99/Todolist) — A task management application to help users organize and track their daily activities efficiently.  
