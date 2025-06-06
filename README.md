@@ -18,7 +18,25 @@ Here are some projects I’m proud of:
 ---
 
 
+## 📊 AI Technical & AI Product Development
 
+| **Area**                  | **Skills & Tools**                                                                                     | **Description**                                                                                     |
+|---------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Machine Learning**      | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | Building predictive models, classification, regression, and clustering techniques.                 |
+| **Deep Learning**         | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | Developing neural networks, CNNs, RNNs, transformers for complex tasks like NLP and vision.        |
+| **Generative AI**         | ![Generative AI](https://img.shields.io/badge/Generative_AI-0099FF?style=flat) ![Transformers](https://img.shields.io/badge/Transformers-6F42C1?style=flat&logo=transformers&logoColor=white) | Creating models for text, image, and code generation leveraging LLMs and diffusion models.         |
+| **NLP & Language Models** | ![NLP](https://img.shields.io/badge/NLP-007ACC?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-0088CC?style=flat&logo=python&logoColor=white) | Designing conversational AI, text analysis, sentiment detection, and fine-tuning large models.    |
+| **Data Engineering**      | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | Efficient data manipulation, cleaning, querying, and preparing datasets for AI pipelines.           |
+| **Cloud & DevOps**        | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Deploying scalable AI services on cloud infrastructure using containers and orchestration.         |
+| **Product Development**   | ![Product Development](https://img.shields.io/badge/Product_Development-ff69b4?style=flat) | Leading AI-driven projects from concept to deployment, focusing on user needs and business impact. |
+
+
+---
+
+
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akashbakshi99&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Akashbakshi99/github-readme-activity-graph)
+
+---
 
 <table>
   <tr>
@@ -35,24 +53,6 @@ Here are some projects I’m proud of:
   </tr>
 </table>
 
----
-
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akashbakshi99&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Akashbakshi99/github-readme-activity-graph)
-
----
-
-## 📊 AI Technical & AI Product Development
-
-| **Area**                  | **Skills & Tools**                                                                                     | **Description**                                                                                     |
-|---------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Machine Learning**      | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | Building predictive models, classification, regression, and clustering techniques.                 |
-| **Deep Learning**         | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | Developing neural networks, CNNs, RNNs, transformers for complex tasks like NLP and vision.        |
-| **Generative AI**         | ![Generative AI](https://img.shields.io/badge/Generative_AI-0099FF?style=flat) ![Transformers](https://img.shields.io/badge/Transformers-6F42C1?style=flat&logo=transformers&logoColor=white) | Creating models for text, image, and code generation leveraging LLMs and diffusion models.         |
-| **NLP & Language Models** | ![NLP](https://img.shields.io/badge/NLP-007ACC?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-0088CC?style=flat&logo=python&logoColor=white) | Designing conversational AI, text analysis, sentiment detection, and fine-tuning large models.    |
-| **Data Engineering**      | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | Efficient data manipulation, cleaning, querying, and preparing datasets for AI pipelines.           |
-| **Cloud & DevOps**        | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Deploying scalable AI services on cloud infrastructure using containers and orchestration.         |
-| **Product Development**   | ![Product Development](https://img.shields.io/badge/Product_Development-ff69b4?style=flat) | Leading AI-driven projects from concept to deployment, focusing on user needs and business impact. |
-
 
 
 ---
@@ -60,8 +60,6 @@ Here are some projects I’m proud of:
 ## 📈 AI Professional Highlights
 
 ➡️ **[🟠 Open Dashboard](https://akashbakshi99.github.io/Akashbakshi99/index.html)**
-
-
 
 
 ---
