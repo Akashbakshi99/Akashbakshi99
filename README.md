@@ -18,7 +18,6 @@ Here are some projects I’m proud of:
 ---
 
 
----
 
 
 <table>
